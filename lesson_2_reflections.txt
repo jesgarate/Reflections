@@ -11,6 +11,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  Localizations, and experimental versions.
+  You create a branch when you have situations hish risk/poor ratio, or you want to parallelize the development
 
 How do the diagrams help you visualize the branch structure?
 
