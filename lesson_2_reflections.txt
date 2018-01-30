@@ -15,6 +15,7 @@ organized? How would branches help?
   You create a branch when you have situations hish risk/poor ratio, or you want to parallelize the development
 
 How do the diagrams help you visualize the branch structure?
+	It helps one to see how to reach commits and branches from branches tips
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
